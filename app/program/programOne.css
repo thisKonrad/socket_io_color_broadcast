@@ -1,0 +1,15 @@
+.controls{
+    color: white;
+    margin: 0.6rem;
+}
+
+.slider{
+    cursor:pointer;
+    margin: 1rem;
+    -webkit-appearance: none;
+    appearance: none;
+    background: transparent;
+    border: solid white 2px;
+    cursor: pointer;
+    width: 6rem;
+}
