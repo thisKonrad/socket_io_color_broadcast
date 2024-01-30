@@ -11,12 +11,20 @@
   "dependencies": {
     "@p5-wrapper/next": "^1.0.2",
     "@p5-wrapper/react": "^4.1.2",
+    "@search-params/react": "^0.0.7",
     "@uidotdev/usehooks": "^2.4.1",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
     "next": "14.0.4",
+    "nodemon": "^3.0.2",
     "p5": "^1.9.0",
+    "qrcode.react": "^3.1.0",
     "react": "^18",
     "react-dom": "^18",
-    "tone": "^14.7.77"
+    "socket.io": "^4.7.3",
+    "socket.io-client": "^4.7.3",
+    "tone": "^14.7.77",
+    "use-local-storage": "^3.0.0"
   },
   "devDependencies": {
     "eslint": "^8",
